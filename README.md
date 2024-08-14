@@ -33,3 +33,8 @@ This Streamlit application, named **"Smart Resume Analyser"**, helps clients tra
 - **Plotly**: For information representation.
 
 The application incorporates continue examination with customized suggestions and administrator functionalities, meaning to improve work looking for procedures.
+
+
+
+### Streamlit run
+_  ** streamlit run app.py --server.enableXsrfProtection false **
